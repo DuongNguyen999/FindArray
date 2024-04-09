@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindArray", "FindArray.csproj", "{9F1F1D74-3A24-4CE5-A0DA-7B678FD088A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F1F1D74-3A24-4CE5-A0DA-7B678FD088A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1F1D74-3A24-4CE5-A0DA-7B678FD088A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1F1D74-3A24-4CE5-A0DA-7B678FD088A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1F1D74-3A24-4CE5-A0DA-7B678FD088A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {525FC561-EF21-496B-B062-30268B6AF7FB}
+	EndGlobalSection
+EndGlobal
